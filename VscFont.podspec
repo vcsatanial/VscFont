@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 spec.name             = 'VscFont'
 spec.ios.deployment_target = '7.0'
-spec.version          = '1.0.0'
+spec.version          = '1.0.1'
 spec.summary          = '在线下载字体(必须是苹果系统支持的字体)'
 spec.description      = <<-DESC
 在线下载字体(必须是苹果系统支持的字体),可以在系统的字体册查看
