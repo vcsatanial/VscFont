@@ -77,7 +77,7 @@ BOOL needToReask = NO;
                     if (needToReask) {
                         needToReask = NO;
                         errorDuringDownload = YES;
-                        return NO;
+                        return (bool)NO;
                     }
                 }
             }
